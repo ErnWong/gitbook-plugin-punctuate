@@ -13,9 +13,9 @@ module.exports = {
     hooks: {
         "page:before": function(page) {
             for (var i = 0, len = dictionary.length; i<len; i++) {
-                page.content.replace(dictionary[i].find, diction[i].replace);
+                page.content.replace(dictionary[i].find, dictionary[i].replace);
             }
             return page;
         }
     }
-}
+};
