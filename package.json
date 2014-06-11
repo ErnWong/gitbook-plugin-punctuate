@@ -1,5 +1,5 @@
 {
-	"name": "gitbook-plugin-richquotes",
+	"name": "gitbook-plugin-punctuate",
 	"description": "Replaces ASCII punctuation into unicode characters",
 	"author": "Ernest Wong <ewon521@gmail.com>",
 	"main": "index.js",
