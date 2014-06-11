@@ -3,7 +3,7 @@
 	"description": "Replaces ASCII punctuation into unicode characters",
 	"author": "Ernest Wong <ewon521@gmail.com>",
 	"main": "index.js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"gitbook": "*"
 	},
